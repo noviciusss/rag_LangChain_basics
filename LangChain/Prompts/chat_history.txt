@@ -1,0 +1,4 @@
+Human: Hi, what's the capital of France?
+AI: The capital of France is Paris.
+Human: What is it famous for?
+AI: Paris is famous for many landmarks, including the Eiffel Tower, the Louvre Museum, and the Notre-Dame Cathedral.
